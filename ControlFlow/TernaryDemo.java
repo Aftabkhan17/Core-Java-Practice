@@ -1,4 +1,4 @@
-package 03_ControlFlow;
+package ControlFlow;
 
 public class TernaryDemo {
     
